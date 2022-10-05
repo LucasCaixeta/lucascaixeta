@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on the Cazoo design system team :)<br>👯 I’m looking to collaborate on open source projects with React and Typescript <br>🌱 I’m currently learning CI/CD for Github<br>💬 Ask me about js, react & design system, and I'll be glad to help! :)
+
+An enthusiast of life and technology.
+
+Has a bachelor degree in Information Systems from União Pioneira da Integração Social (UPIS, Brasília, Brazil, 2013).
+
+Experience in Web Development and PWA using HTML5, CSS3 (FlexBox), JS (ES5 / ES6), React.js, Redux, React Hooks, Next.js, Taypescript, Redux Observable, React Router, Prettier & Rest API.
+
+
+🔭 I’m currently working as Software Engineer at www.cazoo.co.uk 🚗 <br>👯 I’m looking to collaborate on open source projects with React and Typescript <br>🌱 I’m currently learning CI/CD for Github<br>💬 Ask me about js, react & design system, and I'll be glad to help! :)
+
+
+Coding Dojo Evangelist:
+ - https://medium.com/@lucascaixeta/coding-dojo-4e0b1ea69735
 
 
 ## 🌐 Socials:
