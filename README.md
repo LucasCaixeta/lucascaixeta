@@ -1,17 +1,17 @@
-# 💫 About Me:
+# ✨ About Me:<br/>
+I'm a passionate technologist and life enthusiast.
 
-An enthusiast of life and technology.
+I hold a Bachelor's degree in Information Systems from União Pioneira da Integração Social (UPIS, Brasília, Brazil, 2013).
 
-Has a bachelor degree in Information Systems from União Pioneira da Integração Social (UPIS, Brasília, Brazil, 2013).
+My expertise lies in Web Development and PWA, utilizing HTML5, CSS3 (FlexBox), JS (ES5 / ES6), React.js, Redux, React Hooks, Next.js, TypeScript, Redux Observable, React Router, Prettier, and Rest API.
 
-Experience in Web Development and PWA using HTML5, CSS3 (FlexBox), JS (ES5 / ES6), React.js, Redux, React Hooks, Next.js, Taypescript, Redux Observable, React Router, Prettier & Rest API.
-
-
-🔭 I’m currently working as Senior Software Engineer- Frontend <br>👯 I’m looking to collaborate on open source projects with React and Typescript <br>🌱 I’m currently learning CI/CD for Github<br>💬 Ask me about js, react & design system, and I'll be glad to help! :)
-
+🔭 Currently, I'm working as a Senior Software Engineer - Frontend <br/>
+👯 I'm eager to collaborate on open-source projects involving React and TypeScript<br/>
+🌱 At the moment, I'm learning about CI/CD for GitHub<br/>
+💬 Feel free to ask me about JavaScript, React, design systems, and I'll be happy to help! :)<br/>
 
 Coding Dojo Evangelist:
- - https://medium.com/@lucascaixeta/coding-dojo-4e0b1ea69735
+https://medium.com/@lucascaixeta/coding-dojo-4e0b1ea69735
 
 
 # 💻 Tech Stack:
