@@ -8,7 +8,7 @@ My expertise lies in Web Development and PWA, utilizing HTML5, CSS3 (FlexBox), J
 🔭 Currently, I'm working as a Senior Software Engineer - Frontend <br/>
 👯 I'm eager to collaborate on open-source projects involving React and TypeScript<br/>
 🌱 At the moment, I'm learning about CI/CD for GitHub<br/>
-💬 Feel free to ask me about JavaScript, React, design systems, and I'll be happy to help! :)<br/>
+💬 Feel free to ask me about JavaScript, React, design systems, and I'll be happy to help! :) <br/>
 
 Coding Dojo Evangelist:
 https://medium.com/@lucascaixeta/coding-dojo-4e0b1ea69735
